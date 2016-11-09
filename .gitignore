@@ -1,0 +1,6 @@
+.gradle
+.settings
+node_modules
+build
+/.project
+/.tgitconfig

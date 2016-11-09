@@ -1,0 +1,6 @@
+Bundle-SymbolicName: accountbalance
+Bundle-Version: 1.0.0
+-includeresource: package.json
+#-includeresource: bower.json
+#Liferay-Export-JS-Submodules: *
+#-plugin.npm: com.liferay.ant.bnd.npm.NpmAnalyzerPlugin
